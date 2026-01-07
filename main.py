@@ -1,4 +1,4 @@
-print("hello john cena")
+print("hello")
 
 # import pygame, sys
 # from pygame.locals import QUIT
